@@ -31,23 +31,6 @@ Officer (YAT)** for cybersecurity matters.
 
 ---
 
-### 🚀 Selected projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **SafeAutoStop** | Ride-sharing & carpool platform with bus booking, payments and admin dashboard | React, TypeScript, Node.js, MySQL |
-| **Polis Wash Linen Pro** | Linen-management system for hotels and laundry operations | Rust, JavaScript, SQLite |
-| **SPIK** | Mobile app platform (iOS / Android) | Dart, Flutter |
-| **VoiceNews** | Automated news-to-audio pipeline | JavaScript |
-| **Eshop Keria** | E-commerce platform | TypeScript |
-| **IconWorld** | Web presence & catalogue | HTML/CSS/JS |
-| **Parousies** | Attendance / presence tracking | JavaScript |
-| **BinManager** | Bin & route management | TypeScript |
-| **Jobs GEP** | Job listings platform | JavaScript |
-| **TV** | Streaming backend and admin panel | TypeScript |
-
----
-
 ### 📫 Contact
 
 - 🌐 [eswebs.gr](https://eswebs.gr)
